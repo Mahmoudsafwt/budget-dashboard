@@ -1,0 +1,13 @@
+
+/* monthSlider.css */
+@media (max-width: 600px) {
+    .MuiButton-root {
+      height: 40px;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .MuiButton-root {
+      height: 35px;
+    }
+  }
